@@ -1,2 +1,2 @@
-# reacttask1
+# like-dislike-counter
 Created with CodeSandbox
